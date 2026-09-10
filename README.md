@@ -1,5 +1,7 @@
 # E. coli Simulation in Shear Flow
 
+[![DOI](https://zenodo.org/badge/1363563624.svg)](https://doi.org/10.5281/zenodo.22687904)
+
 Fortran source code for simulating a flagellated E. coli cell near a wall in a background flow, with a MATLAB script for rendering the simulated geometry and trajectory as a movie.
 
 The supplied configuration uses four flagella, a wall-distance parameter of 0.8, and a shear-rate parameter of 10.0. Parameters are defined in the source files rather than a separate configuration file.
